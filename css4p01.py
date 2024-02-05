@@ -11,8 +11,6 @@ file = pandas.read_csv("movie_dataset.csv")
 
 print(file)
 
-"""
-put back the code for clearing the colum """
 print(file.info())
 
 """
